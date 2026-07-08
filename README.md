@@ -2,7 +2,10 @@
 
 ## 📌 Project Overview
 
-![Financial Fraud Analysis Dashboard](dashboard_screenshot.png)
+### Dashboard Previews
+![Dashboard Page 1](ss.png/Screenshot%202026-07-08%20170043.png)
+![Dashboard Page 2](ss.png/Screenshot%202026-07-08%20170052.png)
+![Dashboard Page 3](ss.png/Screenshot%202026-07-08%20170108.png)
 
 This project focuses on identifying patterns and trends in fraudulent financial transactions. By leveraging **SQL, Power BI, and Excel**, we analyze a dataset of 10,000 transactions to uncover key insights related to fraud behavior, risk scores, geographical hotspots, and merchant categories. 
 
