@@ -1,0 +1,6 @@
+streamlit>=1.40
+pandas>=2.0
+plotly>=5.20
+google-genai>=2.3.0
+python-dotenv>=1.0
+pytest>=8.0
