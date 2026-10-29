@@ -1,11 +1,20 @@
 # Financial Fraud Analysis
 
-## 📌 Project Overview
+## Latest Streamlit App Screenshots
 
-### Dashboard Previews
-![Dashboard Page 1](ss.png/Screenshot%202026-07-08%20170043.png)
-![Dashboard Page 2](ss.png/Screenshot%202026-07-08%20170052.png)
-![Dashboard Page 3](ss.png/Screenshot%202026-07-08%20170108.png)
+| Executive overview | Fraud explorer |
+| --- | --- |
+| ![Executive overview](screenshots/overview.png) | ![Fraud explorer](screenshots/fraud-explorer.png) |
+
+| AI assistant | Risk intelligence |
+| --- | --- |
+| ![AI assistant results](screenshots/ai-assistant.png) | ![Risk intelligence](screenshots/risk-intelligence.png) |
+
+| AI report | Report metrics | Report analysis |
+| --- | --- | --- |
+| ![AI report](screenshots/ai-report.png) | ![AI report metrics](screenshots/ai-report-metrics.png) | ![AI report analysis](screenshots/ai-report-analysis.png) |
+
+## Project Overview
 
 This project focuses on identifying patterns and trends in fraudulent financial transactions. By leveraging **SQL, Power BI, and Excel**, we analyze a dataset of 10,000 transactions to uncover key insights related to fraud behavior, risk scores, geographical hotspots, and merchant categories. 
 
@@ -92,18 +101,4 @@ The tests cover metric definitions, exact duplicate handling, missing/invalid va
 
 This application summarizes the supplied static, labelled dataset. Group counts do not normalize by the number or value of transactions in each group. Correlation or frequency does not establish causation. Dataset labels may not represent adjudicated outcomes. AI text can be wrong and must be verified. Reports are downloadable as Markdown; PDF export is not included.
 
-The original `dashboard.pbix`, SQL script, screenshots, and CSV remain available in this project.
-
-### Updated Streamlit app screenshots
-
-| Executive overview | Fraud explorer |
-| --- | --- |
-| ![Executive overview](screenshots/overview.png) | ![Fraud explorer](screenshots/fraud-explorer.png) |
-
-| AI assistant | Risk intelligence |
-| --- | --- |
-| ![AI assistant results](screenshots/ai-assistant.png) | ![Risk intelligence](screenshots/risk-intelligence.png) |
-
-| AI report | Report metrics | Report analysis |
-| --- | --- | --- |
-| ![AI report](screenshots/ai-report.png) | ![AI report metrics](screenshots/ai-report-metrics.png) | ![AI report analysis](screenshots/ai-report-analysis.png) |
+The original Power BI dashboard, SQL script, and CSV remain available in this project.
